@@ -22,7 +22,7 @@ Pronouns: He/Him
 Location: Brazil, SP
 Learning: Python, C++
 Languages: Luau
-Hobbies: Playing PvP Games, Programming
+Hobby: Programming
 ```
 
 <br><br>
