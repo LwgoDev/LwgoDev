@@ -4,8 +4,6 @@
 </a>
 <br>
 
-<br><br><br>
-
 ```zsh
 > neofetch
 ```
