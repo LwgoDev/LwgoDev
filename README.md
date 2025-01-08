@@ -15,11 +15,10 @@
 LwgoDev
 ▔▔▔▔▔▔▔▔
 OS: Windows 10 x64
-Shell: Windows Terminal
 Pronouns: He/Him
-Location: Brazil, SP
+Location: Brazil, São Paulo
+Languages: Lua(u)
 Learning: Python, C++
-Languages: Luau
 Hobby: Programming
 ```
 
