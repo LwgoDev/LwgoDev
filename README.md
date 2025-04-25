@@ -20,6 +20,7 @@ Location: Brazil, São Paulo
 Languages: Lua(u)
 Learning: Python, C++
 Hobby: Programming
+Discord: lwg0 <1292455323730448468>
 ```
 
 <br><br>
