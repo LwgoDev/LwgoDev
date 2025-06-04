@@ -17,7 +17,7 @@ LwgoDev
 OS: Windows 10 x64
 Pronouns: He/Him
 Location: Brazil, São Paulo
-Languages: Lua(u)
+Languages: Luau
 Learning: Python, C++
 Hobby: Programming
 Discord: lwg0 <1292455323730448468>
