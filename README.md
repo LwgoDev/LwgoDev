@@ -14,13 +14,12 @@
 ```lua
 LwgoDev
 ▔▔▔▔▔▔▔▔
-OS: Windows 10 x64
-Pronouns: He/Him
-Location: Brazil, São Paulo
-Languages: Luau
-Learning: Python, C++
-Hobby: Programming
-Discord: lwg0 <1292455323730448468>
+OS: Windows 11 Pro x64
+GPU: RTX 5060
+CPU: RYZEN 5 7600X
+DRAM: 32GB DDR5
+VRAM: 8GB DDR7
+DISCORD: lwg0 <1292455323730448468>
 ```
 
 <br><br>
