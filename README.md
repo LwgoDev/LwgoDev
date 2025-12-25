@@ -11,8 +11,8 @@
 <a href="#"><img align="left" src="https://avatars.githubusercontent.com/u/87584351?s=400&u=4bc380c536a4c6ff3678cbc13c61ff51c005f940&v=4" width="230"/> 
 
 
-```lua
-LwgoDev
+```js
+lwg0
 ▔▔▔▔▔▔▔▔
 OS: Windows 11 Pro x64
 GPU: RTX 5060
